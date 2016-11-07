@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Linguistics.ConstituencyGrammars</id>
+    <version>0.1</version>
+    <authors>James Mann</authors>
+    <owners>James Mann</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Parse Constituency-based parse expressions.</description>
+    <tags>Cognitive Services Linguistic Analysis Grammar Parsing</tags>
+    
+    <dependencies>
+      <dependency id="NLog" version="4.3.10"  />
+    </dependencies>
+  </metadata>
+</package>
